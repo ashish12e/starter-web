@@ -1,0 +1,8 @@
+Using an existing zip file to create git repository-
+go to folder and launch git bash
+unzip the folder
+rename the project folder if needed(it will not  have .git folder till now)
+Git init  this will add a hidden .git folder which manages al git related commands
+if you run git init command on a folder then it would reinitialize the .git folder
+once you delete this folder , then git commands will not work
+
